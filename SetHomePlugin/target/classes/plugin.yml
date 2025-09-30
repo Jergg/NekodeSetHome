@@ -1,3 +1,10 @@
+/*
+ * Nekode SetHomes Plugin
+ * Copyright (C) 2025 Jergg
+ *
+ * Licensed under the GNU General Public License, Version 3 or later.
+ * See <http://www.gnu.org/licenses/>.
+ */
 name: SetHomes
 version: 1.0
 main: com.nekode.sethome.SetHomePlugin
