@@ -1,0 +1,14 @@
+name: SetHomes
+version: 1.0
+main: com.nekode.sethome.SetHomePlugin
+api-version: 1.21
+commands:
+  sethome:
+    description: Sets a home with a specified name
+    usage: /sethome <name>
+  home:
+    description: Teleports to a saved home
+    usage: /home <name>
+  homes:
+    description: Lists all your homes
+    usage: /homes
